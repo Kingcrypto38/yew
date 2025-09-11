@@ -17,9 +17,9 @@
         "fmt:write": "prettier --write ."
     },
     "dependencies": {
-        "@docusaurus/core": "^3.0.0",
+        "@docusaurus/core": "^3.0.1",
         "@docusaurus/plugin-client-redirects": "^3.0.0",
-        "@docusaurus/preset-classic": "^3.0.0",
+        "@docusaurus/preset-classic": "^3.5.0",
         "@mdx-js/react": "^3.0.0",
         "@svgr/webpack": "^8.1.0",
         "clsx": "^2.0.0",
